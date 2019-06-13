@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bdc_4592.wsgi:application
